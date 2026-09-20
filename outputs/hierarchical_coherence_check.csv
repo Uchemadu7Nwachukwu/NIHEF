@@ -1,0 +1,4 @@
+target,max_absolute_difference,mean_absolute_difference,coherent
+cases,9.313225746154785e-09,1.663481900602794e-10,True
+hospitalizations,1.4551915228366852e-10,2.4254538434667128e-12,True
+deaths,1.8189894035458565e-11,2.2343490021133525e-13,True

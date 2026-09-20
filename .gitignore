@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Raw data archive (large)
+MAEPiMS_Challenge_Data/
+MAEPiMS_Challenge_Data.zip
+
+# OS
+.DS_Store
+Thumbs.db
